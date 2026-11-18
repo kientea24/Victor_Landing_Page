@@ -1,0 +1,10 @@
+{
+  "name": "victor-landing-page",
+  "private": true,
+  "scripts": {
+    "dev": "serve launchpad/dist -l 3000"
+  },
+  "devDependencies": {
+    "serve": "^14.2.4"
+  }
+}
